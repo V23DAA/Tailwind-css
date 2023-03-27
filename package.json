@@ -1,0 +1,22 @@
+{
+  "name": "tailwind-css",
+  "version": "1.0.0",
+  "description": "Proyecto con tailwind css",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/V23DAA/Tailwind-css.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/V23DAA/Tailwind-css/issues"
+  },
+  "homepage": "https://github.com/V23DAA/Tailwind-css#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.2.7"
+  }
+}
